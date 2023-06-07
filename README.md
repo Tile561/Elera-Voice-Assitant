@@ -1,4 +1,4 @@
-# Elara - Your Personal Voice Assistant
+# Elara - Voice Assistant
 
 Elara is a voice assistant program written in Python that aims to provide assistance with various tasks using voice commands. It utilizes the `tkinter` library to create a graphical user interface (GUI) for user interaction.
 
